@@ -2,7 +2,7 @@
 Nama Kelompok 12 
 1. Tryanda Finoza Dewantara (G1A025017)
 2. Muhammad Gazril Alfarizi (G1A025097)
-
+3. Muhamad Rafli Rafsanjani (G1A025081) (Tidak sama sekali berpartisipasi)
 ---
 # Overview Sistem
 
